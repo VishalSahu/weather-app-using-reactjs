@@ -1,0 +1,47 @@
+.temp {
+  padding: 1rem;
+  font-size: 10em;
+  text-transform: capitalize;
+}
+span {
+  font-size: 3rem;
+  font-weight: 300;
+  vertical-align: 145%;
+}
+
+.city-name {
+  font-size: 4rem;
+  font-weight: 300;
+}
+
+.min-max-temp{
+padding: 1rem;
+}
+input {
+  width: 15%;
+  padding: 8px 15px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background: rgba(225, 225, 225, 0.3);
+  color: white;
+  border-radius: 0.3rem;
+  border-color: transparent;
+  backdrop-filter: blur(2px);
+  outline: none;
+}
+
+.no-data-found {
+  font-size: 40px;
+  padding-top: 3em;
+  font-weight: 100;
+}
+
+.no-data-pic {
+ opacity: 0.5;
+}
+
+.add-button {
+  width: 2rem;
+  height: 2rem;
+  object-fit: cover;  
+}
